@@ -26,6 +26,7 @@
         <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="cloud-consumer-hystrix-dashboard9001" />
         <module name="cloudalibaba-provider-payment9002" />
+        <module name="cloudalibaba-config-nacos-client3377" />
         <module name="cloud-providerzk-payment8004" />
         <module name="cloud-config-client-3355" />
         <module name="cloud-gateway-gateway9527" />
